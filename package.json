@@ -2,17 +2,14 @@
   "name": "yarn-link-all",
   "version": "1.0.0",
   "bin": {
-    "yarn-link-all": "./yarn-link-all.js",
-    "yarn-unlink-all": "./yarn-unlink-all.js"
+    "link-all": "./link-all.js",
+    "unlink-all": "./unlink-all.js"
   },
   "description": "Links/Unlinks all modules in a directory recursively",
   "main": "index.js",
   "author": "Kris Nye",
   "repository": {
     "url": "https://github.com/krisnye/yarn-link-all"
-  },
-  "publishConfig": {
-    "registry": "https://registry.npmjs.org"
   },
   "license": "MIT",
   "private": false

@@ -7,7 +7,7 @@ if (args.length < 1) {
   console.log(
     `Usage:
 
-    yarn-unlink-all rootdir
+    unlink-all rootdir
 `,
   );
   process.exit(1);
