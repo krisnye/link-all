@@ -11,6 +11,9 @@
   "repository": {
     "url": "https://github.com/krisnye/link-all"
   },
+  "publishConfig": {
+    "registry": "https://registry.npmjs.org"
+  },
   "license": "MIT",
   "private": false
 }
