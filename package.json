@@ -1,0 +1,16 @@
+{
+  "name": "link-all",
+  "version": "1.0.0",
+  "bin": {
+    "link-all": "./link-all.js",
+    "unlink-all": "./unlink-all.js"
+  },
+  "description": "Links/Unlinks all modules in a directory recursively",
+  "main": "index.js",
+  "author": "Kris Nye",
+  "repository": {
+    "url": "https://github.com/krisnye/link-all"
+  },
+  "license": "MIT",
+  "private": false
+}
